@@ -34,12 +34,20 @@ Finally, we trained our XGBoost model and got a score of 0.8916 on testing data.
 
 # Library Versions
 
--**NumPy**: 1.22.3
--**Pandas**: 1.4.2
--**Matplotlib**: 3.5.1
--**Seaborn**: 0.11.2
--**SQLite3**: 2.6.0
--**Scikit-Learn**: 1.0.2
--**XGBoost**: 1.7.4
--**Arabic Reshaper**: 3.0.0
--**Python-Bidi**: 0.4.2
+- **NumPy**: 1.22.3
+
+- **Pandas**: 1.4.2
+
+- **Matplotlib**: 3.5.1
+
+- **Seaborn**: 0.11.2
+
+- **SQLite3**: 2.6.0
+
+- **Scikit-Learn**: 1.0.2
+
+- **XGBoost**: 1.7.4
+
+- **Arabic Reshaper**: 3.0.0
+
+- **Python-Bidi**: 0.4.2
