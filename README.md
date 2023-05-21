@@ -32,6 +32,12 @@ Some insights we got from this analysis:
 
 Finally, we trained our XGBoost model and got a score of 0.8916 on testing data. Which means that our model can capture/explain **89.16%** of the variance in the testing data.
 
+# To Do:
+1. Join the dataset with another dataset (So maybe we can extract the population of each city)
+2. Try plotly's 3d plots.
+3. Hypothesis Testing.
+4. Try to train the model with the `age` variable, even though we would need to impute/delete ~200k records
+
 # Library Versions
 
 - **NumPy**: 1.22.3
